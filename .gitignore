@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.npy
+*.log
+vector_db/
+backend/agent/google_credentials/
