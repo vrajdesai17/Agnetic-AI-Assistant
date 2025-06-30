@@ -1,6 +1,6 @@
 import requests
 
-RAPID_API_KEY = "8e59401748mshf6028adabdd809dp1d1ce8jsnab01012bcb45"  
+RAPID_API_KEY = "YOURKEY"  
 HEADERS = {
     "X-RapidAPI-Key": RAPID_API_KEY,
     "X-RapidAPI-Host": "hotels4.p.rapidapi.com"
